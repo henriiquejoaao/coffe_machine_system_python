@@ -9,12 +9,12 @@ A project based on a coffee machine that offers four types of drinks (latte, esp
 
 ✔ Programming Logic;
 
-✔ Classes
+✔ Classes;
 
 ✔ Constructors;
 
-✔ Functions
+✔ Functions;
 
-✔ Lists
+✔ Lists;
 
-✔ Dictionaries
+✔ Dictionaries.
